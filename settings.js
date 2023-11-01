@@ -3,9 +3,9 @@ const fs = require('fs')
 global.creator = 'manusia'// yourname
 global.apikey = ["rawrkey"]
 global.MONGO_DB_URI = "mongodb+srv://sayaadalah887:adalah887@cluster0.uof9cob.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.ACTIVATION_TOKEN_SECRET = "epep" //isi apa aja bebas
 global.your_email = "sayaadalah887@gmail.com" //email
-global.email_password = "manusia" //application password email
+global.email_password = "adalah887" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
